@@ -1,5 +1,5 @@
 {
-  "name": "jsonwebtoken-ed25519-tn",
+  "name": "jsonwebtoken-ed25519-nacl",
   "version": "0.0.4",
   "description": "JSON Web Token implementation (symmetric and asymmetric) with TweetNacl lib",
   "main": "index.js",
